@@ -1,0 +1,16 @@
+{
+    "description": "My project",
+    "domain": "is-a-fullstack.dev",
+    "subdomain": "ilya",
+
+    "owner": {
+        "repo": "https://github.com/cyberpunk3351",
+        "email": "drummer.ilya@gmail.com"
+    },
+
+    "record": {
+        "A": ["91.108.242.127"]
+    },
+
+    "proxied": false
+}
